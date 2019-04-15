@@ -1,0 +1,4 @@
+﻿|labels 0 |features 0 0
+|labels 1 |features 1 0
+|labels 1 |features 0 1
+|labels 0 |features 1 1
