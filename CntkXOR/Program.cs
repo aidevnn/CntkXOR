@@ -139,7 +139,7 @@ namespace CntkXOR
 
         static void Main(string[] args)
         {
-            string deviceType = "GPU";
+            string deviceType = "CPU"; // Change to GPU if possible
             DeviceDescriptor device = null;
             if (deviceType == "GPU")
                 device = DeviceDescriptor.GPUDevice(0);

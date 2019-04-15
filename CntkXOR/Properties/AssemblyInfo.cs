@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("CntkXOR")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Simple MLP with CNTK")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("IAdevDNN")]
 [assembly: AssemblyProduct("CntkXOR")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
