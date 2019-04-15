@@ -6,6 +6,9 @@ The architecture of the deep neural network model :
 
 ![XOR_MLP](XOR_MLP.png "2 x 4 x 1 MultiLayersPerceptron")
 
+Before the first compilation, all the nuget packages must being restored (right click on Solution from Solution-Explorer) and the selected Solution plateform must be x64.
+This takes a little time to preparing more than 1Gb of dll dependencies, and the first compilation takes also a little time during copying all dll in the execution folder.
+
 The output :
 
 ```
