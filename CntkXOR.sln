@@ -5,6 +5,12 @@ VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CntkXOR", "CntkXOR\CntkXOR.csproj", "{3BC60E8E-BFB2-4F4D-BF3C-8E347B4E1C87}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{256F2A46-8B94-40C4-AF78-A68BEB700E78}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		XOR_MLP.png = XOR_MLP.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
