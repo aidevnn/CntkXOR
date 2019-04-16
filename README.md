@@ -1,5 +1,5 @@
 # CntkXOR
-Simple MLP with CNTK on XOR dataset. The dataset can be loaded from an array or from a file. Make sure having a NVIDIA GPU compatible with lastest drivers.
+Simple MLP with CNTK on XOR dataset. The dataset can be loaded from an array or from a file. Make sure having a NVIDIA GPU compatible with lastest drivers for using CNTK-GPU.
 
 The architecture of the deep neural network model :
 
